@@ -1,0 +1,134 @@
+------------------Beginning to build the first car------------------
+Please enter the filename:
+BMW.txt
+------------------End to build the first car------------------
+------------------Beginning to build the second car------------------
+Please enter the filename:
+Ford Focus.txt
+Synchronized output for updaing option set name:
+after searching: Color
+it is now Color
+succeed to find optionSet: Color
+finished Updating OptionSet: Color
+after searching: Color1
+it is now Color1
+succeed to find optionSet: Color1
+finished Updating OptionSet: Color1
+after searching: Color2
+it is now Color2
+succeed to find optionSet: Color2
+finished Updating OptionSet: Color2
+after searching: Color3
+it is now Color3
+succeed to find optionSet: Color3
+finished Updating OptionSet: Color3
+after searching: Color4
+it is now Color4
+succeed to find optionSet: Color4
+finished Updating OptionSet: Color4
+
+
+Unsynchronized output for updaing option set name:
+after searching: Color5
+it is now Color5
+after searching: Color6
+it is now Color6
+succeed to find optionSet: Color5
+finished Updating OptionSet: Color5
+after searching: Color7
+succeed to find optionSet: Color6
+finished Updating OptionSet: Color6
+it is now Color7
+after searching: Color8
+it is now Color8
+succeed to find optionSet: Color7
+finished Updating OptionSet: Color7
+after searching: Color9
+it is now Color9
+succeed to find optionSet: Color8
+
+
+finished Updating OptionSet: Color8
+Synchronized output for updaing option name:
+succeed to find optionSet: Color9
+finished Updating OptionSet: Color9
+it is now Fort Knox Gold Clearcoat Metallic
+finished Updating Option Name: Fort Knox Gold Clearcoat Metallic in OptionSet: Color5
+it is now Metallic1
+finished Updating Option Name: Metallic1 in OptionSet: Color5
+it is now Metallic2
+finished Updating Option Name: Metallic2 in OptionSet: Color5
+it is now Metallic3
+finished Updating Option Name: Metallic3 in OptionSet: Color5
+it is now Metallic4
+finished Updating Option Name: Metallic4 in OptionSet: Color5
+
+
+Unsynchronized output for updaing option name:
+it is now Metallic5
+it is now Metallic6
+finished Updating Option Name: Metallic5 in OptionSet: Color5
+it is now Metallic7
+finished Updating Option Name: Metallic6 in OptionSet: Color5
+it is now Metallic8
+finished Updating Option Name: Metallic7 in OptionSet: Color5
+it is now Metallic9
+finished Updating Option Name: Metallic8 in OptionSet: Color5
+
+
+Synchronized output for updaing option price:
+finished Updating Option Name: Metallic9 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+
+
+Unsynchronized output for updaing option price:
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+
+
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+finished Updating Price in Option: Metallic5 in OptionSet: Color5
+succeed to delete the optionSet: Power Moonroof
+option set: Power Moonroof does not exist. Can not remove.
+
+
+succeed to delete the option: automatic in option set: Transmission
+option : automatic in option set: Transmission does not exist. Can not remove.
+
+
+Model Name: BMW
+Base Price: $20000.0
+Available Options: Color5, Transmission, Brakes/Traction Control, Side Impact Air Bags
+
+Detailed Option Information: 
+Color5:
+Metallic5($3000.0)
+Liquid Grey Clearcoat Metallic($0.0)
+Infra-Red Clearcoat($0.0)
+Grabber Green Clearcoat Metallic($0.0)
+Sangria Red Clearcoat Metallic($0.0)
+French Blue Clearcoat Metallic($0.0)
+Twilight Blue Clearcoat Metallic($0.0)
+CD Silver Clearcoat Metallic($0.0)
+Pitch Black Clearcoat($0.0)
+Cloud 9 White Clearcoat($0.0)
+
+Transmission:
+manual($-815.0)
+
+Brakes/Traction Control:
+standard($0.0)
+ABS($400.0)
+ABS with Advance Trac($1625.0)
+
+Side Impact Air Bags:
+none($0.0)
+selected($350.0)
+
+
+------------------End to to build the second car------------------

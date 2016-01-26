@@ -1,0 +1,65 @@
+Model Name: Ford Focus Wagon ZTW
+Base Price: $18445.0
+Available Options: Color, Transmission, Brakes/Traction Control, Side Impact Air Bags, Power Moonroof
+
+Detailed Option Information: 
+Color:
+Fort Knox Gold Clearcoat Metallic($0.0)
+Liquid Grey Clearcoat Metallic($0.0)
+Infra-Red Clearcoat($0.0)
+Grabber Green Clearcoat Metallic($0.0)
+Sangria Red Clearcoat Metallic($0.0)
+French Blue Clearcoat Metallic($0.0)
+Twilight Blue Clearcoat Metallic($0.0)
+CD Silver Clearcoat Metallic($0.0)
+Pitch Black Clearcoat($0.0)
+Cloud 9 White Clearcoat($0.0)
+
+Transmission:
+automatic($0.0)
+manual($-815.0)
+
+Brakes/Traction Control:
+standard($0.0)
+ABS($400.0)
+ABS with Advance Trac($1625.0)
+
+Side Impact Air Bags:
+none($0.0)
+selected($350.0)
+
+Power Moonroof:
+none($0.0)
+selected($595.0)
+
+
+Given option set found
+Given option found
+Option index out of bound, can not update price
+Model Name: Focus Wagon
+Base Price: $10000.0
+Available Options: Color1, Transmission, null(This option set has already been deleted),null(This option set has already been deleted),Moonroof Power new
+
+Detailed Option Information: 
+Color1:
+null(null)(This option has already been deleted)
+Liquid Grey Clearcoat Metallic($100.0)
+Red($0.0)
+Green new($200.0)
+Sangria Red Clearcoat Metallic2($0.0)
+French Blue Clearcoat Metallic2($250.0)
+Twilight Blue Clearcoat Metallic3($-175.0)
+CD Silver Clearcoat Metallic($0.0)
+null(null)(This option has already been deleted)
+null(null)(This option has already been deleted)
+Transmission:
+Totally-Automatic($100.0)
+Manual 2($-1000.0)
+
+The 2 option set has already been deleted
+
+The 3 option set has already been deleted
+
+Moonroof Power new:
+none($0.0)
+selected($595.0)

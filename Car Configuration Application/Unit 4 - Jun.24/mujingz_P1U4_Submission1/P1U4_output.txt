@@ -1,0 +1,68 @@
+Client:
+
+
+Client: Please enter the number for choice
+1. Upload a file.
+2. Configure a car. 
+3. Quit
+1
+Client: You have choose to upload a file.
+Client: Please enter the path of the file
+Z4.properties
+Client: FileName you have entered is : Z4.properties
+Client: You have chosen to upload properties format
+Client: The properties file you have entered is correct, uploading......
+Client: Please enter the number for choice
+1. Upload a file.
+2. Configure a car. 
+3. Quit
+2
+Client: You have chosen to configure
+Client: Car info from server is listed as : 
+Model 1 : Z4
+
+Please enter the model name you wish to configure
+Z4
+OptionSetName: Transmission
+Option 1 : Manual
+Option 2 : Automatic
+
+Please enter the number for selection
+1
+OptionSetName: Brakes
+Option 1 : Regular
+Option 2 : ABS
+
+Please enter the number for selection
+2
+total price is 31250.0
+Client: Please enter the number for choice
+1. Upload a file.
+2. Configure a car. 
+3. Quit
+
+
+
+
+Server:
+
+Server: succeed to connect
+Server: Handling session with 128.237.204.208:4300
+Server: client choose to upload a file
+fileType: properties
+Model Name: Z4
+Base Price: $30000.0
+Available Options: Transmission, Brakes
+
+Detailed Option Information: 
+Transmission:
+Manual($0.0)
+Automatic($300.0)
+
+Brakes:
+Regular($0.0)
+ABS($1250.0)
+
+
+Server: client wish to configure a car
+Server: client select Z4
